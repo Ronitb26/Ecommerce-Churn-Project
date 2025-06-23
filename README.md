@@ -1,4 +1,4 @@
-# 🔍 Customer Churn Prediction & Retention Strategy [App](https://ecom-churn.streamlit.app/)
+# 🔍 [Customer Churn Prediction & Retention Strategy App](https://ecom-churn.streamlit.app/)
 
 ## 📌 Project Overview
 

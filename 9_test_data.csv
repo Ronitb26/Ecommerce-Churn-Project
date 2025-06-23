@@ -1,0 +1,406 @@
+Churn,Tenure,CityTier,WarehouseToHome,PreferredPaymentMode,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromlastYear,OrderCount,DaySinceLastOrder,CashbackAmount
+0,24,1,27.0,Credit Card,4,Grocery,3,Married,4,Yes,16,2,11.0,237.45
+0,26,1,18.0,Debit Card,4,Laptop & Accessory,3,Divorced,10,No,21,2,5.0,156.49
+1,1,3,9.0,E wallet,4,Phone,5,Married,2,No,12,2,3.0,155.41
+0,5,1,8.0,Debit Card,3,Phone,1,Single,1,No,13,3,6.0,130.68
+0,19,3,9.0,COD,1,Grocery,5,Married,3,No,12,2,8.0,232.25
+0,7,3,6.0,E wallet,1,Laptop & Accessory,2,Married,1,No,11,1,9.0,197.25
+0,11,1,17.0,Credit Card,4,Phone,5,Divorced,8,No,21,2,4.0,159.52
+0,8,1,6.0,Debit Card,5,Phone,1,Married,2,No,12,1,1.0,129.77
+1,4,3,6.0,Debit Card,3,Laptop & Accessory,2,Single,9,Yes,11,1,5.0,159.93
+0,9,1,15.0,Debit Card,3,Phone,1,Married,4,No,23,1,3.0,120.75
+0,8,3,10.0,Debit Card,6,Laptop & Accessory,1,Single,7,No,13,3,3.0,185.29
+1,1,3,16.0,E wallet,4,Laptop & Accessory,5,Single,2,Yes,18,2,4.0,207.24
+0,16,2,8.0,Debit Card,3,Phone,1,Single,1,No,13,1,8.0,135.39
+0,9,1,20.0,Debit Card,3,Phone,5,Married,2,Yes,14,6,8.0,122.35
+0,3,3,6.0,E wallet,4,Laptop & Accessory,2,Divorced,2,No,20,2,2.0,168.42
+0,10,3,7.0,Debit Card,4,Laptop & Accessory,2,Divorced,3,Yes,15,5,11.0,187.01
+1,0,3,19.0,E wallet,3,Laptop & Accessory,3,Single,4,Yes,11,2,2.0,198.54
+0,9,1,11.0,UPI,5,Phone,1,Married,3,No,14,3,3.0,148.76
+0,15,1,35.0,Credit Card,5,Laptop & Accessory,1,Single,5,No,19,1,0.0,142.72
+1,1,3,28.0,UPI,5,Phone,4,Single,3,Yes,14,2,1.0,146.21
+1,0,1,9.0,Debit Card,3,Phone,5,Single,2,Yes,11,9,7.0,133.48
+0,9,3,9.0,E wallet,3,Laptop & Accessory,4,Single,4,Yes,16,1,1.0,192.78
+0,21,1,23.0,Credit Card,2,Laptop & Accessory,3,Married,3,Yes,20,3,8.0,175.67
+0,27,1,23.0,COD,3,Fashion,3,Divorced,9,No,11,1,8.0,207.39
+1,0,1,11.0,Credit Card,3,Phone,4,Single,1,No,17,1,2.0,124.22
+0,27,1,14.0,Credit Card,4,Others,3,Married,5,No,15,5,8.0,311.06
+0,4,1,31.0,Debit Card,4,Phone,3,Married,3,No,23,2,1.0,151.93
+0,11,1,8.0,Credit Card,3,Phone,3,Married,7,Yes,13,1,1.0,130.57
+0,10,1,30.0,Credit Card,2,Laptop & Accessory,1,Married,6,No,18,2,4.0,150.71
+0,2,1,7.0,Debit Card,4,Phone,1,Married,3,No,12,2,4.0,145.44
+0,4,2,7.0,Debit Card,4,Phone,3,Married,2,No,22,2,4.0,145.64
+1,1,1,16.0,Credit Card,5,Phone,3,Divorced,2,Yes,18,2,1.0,158.88
+0,28,1,12.0,Credit Card,4,Others,5,Divorced,6,No,15,2,3.0,318.7431
+0,29,1,7.0,Credit Card,4,Others,5,Single,2,Yes,15,5,11.0,315.45
+0,13,1,32.0,Credit Card,3,Laptop & Accessory,4,Married,2,No,11,2,11.0,156.05
+0,1,1,18.0,Credit Card,4,Phone,4,Married,3,No,14,2,3.0,147.44
+0,11,3,16.0,E wallet,4,Fashion,3,Married,1,Yes,14,2,7.0,187.4
+1,1,3,19.0,Debit Card,3,Phone,4,Single,3,No,16,2,1.0,152.16
+0,22,1,11.0,Debit Card,4,Fashion,1,Single,3,No,12,2,9.0,203.98
+1,9,1,31.0,Debit Card,3,Phone,4,Married,2,Yes,19,7,8.0,120.22
+0,17,1,8.0,Debit Card,1,Fashion,1,Married,2,Yes,19,6,7.0,178.79
+0,2,1,7.0,Debit Card,1,Laptop & Accessory,3,Single,9,Yes,12,1,2.0,162.94
+1,1,3,13.0,E wallet,6,Phone,3,Married,2,No,17,2,1.0,148.51
+0,10,1,16.0,Credit Card,5,Laptop & Accessory,4,Married,4,Yes,12,2,3.6,213.47
+1,3,3,30.0,Debit Card,1,Grocery,4,Single,5,Yes,16,2,0.0,231.94
+0,3,3,17.0,Debit Card,4,Phone,3,Single,3,No,12,2,1.0,151.42
+0,5,1,6.0,Debit Card,3,Phone,5,Single,2,No,13,1,0.0,129.56
+1,14,1,14.2,Debit Card,3,Phone,3,Married,10,Yes,12,2,7.0,124.61
+1,9,3,7.0,Debit Card,3,Phone,4,Single,2,Yes,11,2,2.0,123.02
+0,19,1,14.0,Debit Card,4,Fashion,5,Married,3,No,19,9,11.0,177.1
+0,11,1,21.0,Debit Card,4,Fashion,2,Married,1,Yes,14,2,1.2,215.1
+0,5,1,7.0,Debit Card,5,Phone,5,Divorced,3,No,13,4,3.0,147.18
+0,6,1,12.0,Debit Card,3,Laptop & Accessory,2,Married,4,No,23,4,7.0,177.25
+0,0,3,11.0,Credit Card,3,Phone,1,Single,2,No,24,2,2.0,126.1
+0,12,1,17.0,Credit Card,4,Laptop & Accessory,3,Divorced,5,No,20,2,6.4,223.24
+0,18,1,30.0,Credit Card,4,Laptop & Accessory,4,Married,6,No,13,2,3.0,145.42
+0,16,1,9.0,Debit Card,4,Grocery,3,Married,2,Yes,15,3,11.0,303.61
+0,6,1,15.0,Credit Card,3,Phone,2,Divorced,1,No,13,4,10.0,127.81
+0,9,2,14.0,Credit Card,1,Phone,4,Single,10,No,18,1,2.0,121.09
+0,8,1,17.0,Debit Card,4,Phone,4,Married,3,No,15,2,1.0,145.08
+1,9,3,9.0,Credit Card,3,Phone,1,Single,2,Yes,12,1,0.0,116.01
+0,1,1,24.0,Credit Card,5,Laptop & Accessory,3,Married,3,No,16,4,3.0,168.77
+0,26,3,13.0,E wallet,4,Fashion,2,Divorced,8,Yes,18,1,2.6,209.34
+0,31,3,9.0,Credit Card,4,Grocery,4,Married,6,No,23,9,11.0,116.01
+0,1,1,11.0,Credit Card,4,Phone,4,Single,3,No,14,2,3.0,157.95
+1,0,3,14.0,COD,4,Laptop & Accessory,5,Single,7,No,17,1,2.0,153.26
+0,0,1,14.0,Debit Card,3,Phone,5,Married,2,No,13,1,0.0,123.41
+0,4,1,30.0,COD,3,Laptop & Accessory,1,Single,3,No,20,1,4.0,152.38
+0,19,1,19.0,Debit Card,3,Laptop & Accessory,4,Single,7,No,14,1,9.0,155.62
+0,1,1,14.0,Credit Card,5,Laptop & Accessory,3,Divorced,4,No,18,2,1.0,186.32
+0,11,1,32.0,Credit Card,4,Laptop & Accessory,3,Divorced,5,Yes,16,9,8.0,169.49
+0,15,3,13.0,Debit Card,4,Fashion,2,Single,5,Yes,19,2,1.0,260.91
+0,0,1,14.2,COD,3,Phone,1,Married,1,No,14,2,1.0,125.23
+0,18,1,17.0,UPI,4,Laptop & Accessory,1,Married,4,Yes,14,2,4.0,189.65
+0,7,1,21.0,Credit Card,4,Phone,4,Divorced,3,No,14,2,7.0,152.56
+0,13,1,22.2,Credit Card,3,Phone,3,Married,3,No,14,1,2.0,123.45
+0,28,1,8.0,COD,4,Phone,1,Married,9,No,20,1,4.0,126.62
+0,1,3,17.0,Debit Card,4,Laptop & Accessory,1,Single,2,No,15,2,2.0,174.5
+0,0,1,10.0,Credit Card,3,Phone,4,Single,2,No,13,1,2.0,132.95
+0,28,1,6.0,Credit Card,1,Grocery,2,Married,3,No,13,2,0.0,247.32
+0,21,1,12.0,Debit Card,4,Laptop & Accessory,3,Single,3,No,13,2,2.0,142.4
+1,3,3,10.0,Credit Card,4,Laptop & Accessory,3,Married,6,Yes,19,2,1.0,177.38
+0,0,1,25.0,UPI,4,Phone,5,Married,2,No,11,1,7.0,140.66
+0,9,3,7.0,E wallet,4,Fashion,3,Single,3,No,15,2,2.8,212.89
+0,25,1,25.0,Credit Card,3,Phone,1,Married,1,No,18,1,2.0,142.58
+0,17,1,11.0,Debit Card,4,Phone,3,Single,4,No,14,1,3.0,131.62
+1,5,1,9.0,Debit Card,6,Phone,2,Married,6,Yes,14,2,1.0,152.78
+0,31,3,35.0,E wallet,5,Fashion,5,Married,6,No,20,9,5.0,227.66
+0,8,1,23.0,Debit Card,5,Phone,1,Single,3,No,17,2,4.0,150.53
+1,1,1,16.0,Credit Card,5,Phone,3,Married,2,Yes,18,2,1.0,158.88
+0,20,3,11.0,E wallet,5,Others,4,Divorced,4,No,15,2,9.0,312.89
+0,6,3,20.0,Debit Card,4,Laptop & Accessory,2,Married,4,No,12,2,4.0,169.03
+0,17,1,19.0,Debit Card,5,Grocery,4,Married,3,No,12,4,10.0,268.36
+1,0,3,15.0,Debit Card,4,Phone,5,Single,8,No,23,1,3.0,134.07
+0,9,1,27.0,Credit Card,3,Phone,1,Married,8,No,20,1,2.0,122.58
+0,9,3,13.0,E wallet,1,Laptop & Accessory,5,Divorced,3,No,16,6,11.0,146.39
+0,1,1,12.0,Debit Card,4,Phone,4,Single,3,Yes,13,2,3.0,149.78
+0,26,1,7.0,Credit Card,4,Grocery,3,Married,5,Yes,20,1,3.8,229.65
+0,9,1,9.0,Debit Card,1,Laptop & Accessory,5,Married,7,No,20,1,4.0,168.42
+0,8,3,16.2,Debit Card,3,Phone,3,Married,2,No,13,1,0.0,124.04
+1,0,1,29.0,Debit Card,4,Laptop & Accessory,3,Divorced,4,Yes,13,1,1.0,159.16
+1,18,3,19.0,E wallet,1,Grocery,3,Single,7,Yes,17,2,8.0,236.95
+1,20,1,29.0,Credit Card,3,Fashion,2,Divorced,2,No,12,9,6.0,203.12
+1,1,2,13.0,UPI,4,Phone,5,Married,6,Yes,23,2,3.0,145.73
+0,10,3,27.0,Credit Card,3,Phone,2,Divorced,6,No,15,1,0.0,129.73
+0,17,1,22.0,Debit Card,5,Grocery,3,Married,3,No,15,7,11.0,301.03
+0,13,1,10.0,Credit Card,5,Laptop & Accessory,3,Married,2,No,16,2,8.0,155.69
+0,19,3,7.0,Debit Card,1,Grocery,5,Single,2,No,15,1,11.0,275.67
+0,11,3,22.0,Debit Card,3,Laptop & Accessory,4,Single,3,No,12,1,2.0,141.98
+1,0,1,16.2,COD,5,Phone,1,Single,2,Yes,18,1,0.0,123.4
+0,17,1,17.0,Debit Card,4,Phone,2,Single,2,No,20,2,8.0,149.55
+0,4,1,11.0,Debit Card,3,Phone,2,Divorced,4,Yes,19,1,2.0,123.56
+0,2,3,7.0,Debit Card,5,Laptop & Accessory,1,Married,3,Yes,13,2,8.0,193.34
+0,6,1,20.0,UPI,5,Phone,4,Married,3,No,21,3,3.0,159.0
+1,0,3,16.2,COD,5,Phone,5,Single,1,No,21,1,0.0,123.25
+0,6,1,7.0,Debit Card,5,Phone,4,Divorced,8,No,21,2,3.0,148.32
+1,1,1,22.0,UPI,4,Laptop & Accessory,3,Married,9,No,15,2,1.0,173.34
+0,10,1,16.0,Debit Card,1,Fashion,1,Married,2,Yes,25,2,8.0,237.44
+0,0,1,17.0,UPI,1,Laptop & Accessory,3,Married,1,No,18,1,3.0,140.11
+0,15,1,8.0,Debit Card,3,Fashion,1,Married,3,Yes,14,9,9.0,201.24
+0,24,1,17.0,COD,4,Grocery,4,Single,4,No,16,1,5.2,231.42
+0,6,1,7.0,Credit Card,4,Laptop & Accessory,1,Married,3,Yes,23,8,9.0,186.62
+0,14,3,33.0,E wallet,4,Laptop & Accessory,5,Married,3,No,15,8,6.0,208.96
+0,5,1,12.0,Debit Card,3,Phone,3,Single,4,No,20,1,4.0,130.38
+0,27,2,25.0,Credit Card,3,Fashion,4,Married,3,No,15,7,1.0,207.25
+0,1,1,8.0,Debit Card,5,Phone,3,Married,3,Yes,14,2,1.0,154.33
+1,0,3,10.0,Credit Card,5,Fashion,1,Married,2,No,11,9,8.0,204.0
+0,15,3,18.0,E wallet,3,Laptop & Accessory,1,Married,4,Yes,12,1,0.0,150.87
+0,8,3,35.0,COD,4,Fashion,4,Married,5,No,13,2,0.8,217.5
+0,8,2,18.0,Debit Card,5,Laptop & Accessory,4,Divorced,6,No,12,2,9.0,169.9
+0,3,1,16.0,Credit Card,4,Phone,3,Married,11,No,18,2,3.0,154.74
+0,0,3,16.2,Credit Card,1,Phone,2,Divorced,9,No,14,1,0.0,125.34
+0,0,3,8.0,Credit Card,1,Laptop & Accessory,3,Single,1,No,14,1,7.0,165.0
+0,8,3,16.2,Debit Card,3,Phone,3,Divorced,2,No,13,1,0.0,124.04
+0,12,1,8.0,COD,4,Laptop & Accessory,3,Single,2,No,11,9,10.0,145.53
+0,19,1,8.0,Debit Card,3,Fashion,1,Married,4,No,14,4,7.0,185.78
+0,3,1,17.2,Debit Card,3,Phone,3,Single,2,No,14,1,4.0,126.32
+1,0,3,11.0,E wallet,3,Phone,2,Single,2,Yes,14,1,2.0,123.23
+0,9,3,14.0,COD,3,Laptop & Accessory,2,Married,5,No,13,1,7.0,150.79
+1,13,3,34.0,E wallet,4,Fashion,5,Married,5,Yes,13,2,0.0,208.54
+0,3,1,30.0,Debit Card,2,Phone,3,Married,3,No,25,2,8.0,152.0
+0,9,1,32.0,UPI,5,Laptop & Accessory,2,Single,6,No,15,2,3.0,161.81
+0,17,1,14.0,Debit Card,1,Phone,1,Married,3,Yes,24,1,2.0,128.18
+0,3,1,11.0,Debit Card,4,Phone,2,Married,10,No,12,1,3.0,137.61
+0,9,3,10.0,Debit Card,4,Fashion,2,Married,8,No,14,2,9.0,203.23
+1,1,1,30.0,Debit Card,5,Laptop & Accessory,3,Married,5,Yes,14,2,2.0,184.16
+0,0,1,15.0,Debit Card,4,Phone,4,Married,2,No,11,1,0.0,126.94
+0,11,1,18.0,Debit Card,4,Laptop & Accessory,5,Married,3,No,15,1,2.0,162.88
+0,16,1,30.0,Debit Card,4,Grocery,2,Single,4,No,15,2,1.0,284.92
+0,2,1,14.0,Credit Card,4,Laptop & Accessory,2,Divorced,2,Yes,13,1,2.0,150.56
+1,0,1,6.0,Debit Card,1,Fashion,4,Single,2,No,11,4,7.0,174.46
+0,1,1,11.0,Debit Card,4,Phone,3,Single,3,No,20,2,1.0,148.18
+1,9,1,16.0,Credit Card,4,Phone,4,Single,2,Yes,25,1,0.0,118.59
+0,8,1,34.0,Debit Card,1,Laptop & Accessory,3,Married,2,No,17,6,8.0,134.07
+0,19,1,7.0,Credit Card,4,Phone,1,Married,5,No,15,2,3.0,147.7
+1,0,1,29.0,Debit Card,4,Laptop & Accessory,3,Married,4,Yes,13,1,1.0,159.16
+0,22,1,31.0,Debit Card,3,Phone,5,Married,2,No,14,1,4.0,132.11
+0,17,1,7.0,Debit Card,1,Laptop & Accessory,5,Married,3,No,15,2,2.0,150.33
+0,12,1,18.0,Credit Card,3,Laptop & Accessory,4,Married,5,No,21,1,0.0,152.95
+0,6,1,7.0,Debit Card,4,Laptop & Accessory,4,Married,3,No,18,2,10.0,187.2
+0,19,1,12.0,Credit Card,6,Laptop & Accessory,5,Single,3,Yes,15,2,5.0,182.69
+0,19,1,24.0,Credit Card,3,Fashion,3,Divorced,6,No,11,1,2.0,205.27
+1,0,3,7.0,COD,3,Phone,3,Married,4,No,15,1,2.0,129.09
+0,2,3,11.0,Credit Card,4,Laptop & Accessory,3,Married,3,No,16,2,5.0,167.21
+0,13,1,30.0,COD,3,Laptop & Accessory,2,Married,2,No,17,4,7.0,133.19
+0,0,1,14.0,Debit Card,3,Phone,5,Single,2,No,25,1,0.0,125.52
+1,6,1,14.0,COD,4,Phone,3,Married,10,Yes,16,1,0.0,124.37
+0,9,1,34.0,Debit Card,4,Laptop & Accessory,3,Married,4,No,17,2,8.0,193.83
+0,17,1,15.0,Debit Card,4,Laptop & Accessory,4,Married,6,No,22,2,1.0,172.65
+0,5,1,9.0,Credit Card,6,Phone,1,Married,3,Yes,12,2,1.0,136.29
+0,8,3,6.0,E wallet,3,Laptop & Accessory,3,Married,10,No,11,6,9.0,147.17
+0,16,1,35.0,Debit Card,4,Laptop & Accessory,4,Divorced,3,No,14,8,9.0,169.34
+0,5,1,19.0,Credit Card,4,Phone,2,Divorced,10,Yes,24,2,3.0,164.29
+1,1,1,24.0,Debit Card,4,Phone,3,Single,3,Yes,14,8,8.0,148.94
+0,15,3,6.0,Debit Card,3,Laptop & Accessory,3,Divorced,2,No,25,9,6.0,149.07
+0,9,1,18.0,Credit Card,4,Fashion,1,Single,1,No,11,7,8.0,188.58
+0,1,1,7.0,Credit Card,5,Phone,5,Married,3,No,17,2,4.0,164.55
+0,2,1,19.8,Credit Card,4,Phone,2,Married,7,No,14,1,3.0,125.32
+0,29,1,9.0,Debit Card,4,Grocery,2,Single,4,Yes,14,2,3.0,291.59
+0,9,1,20.0,Debit Card,3,Laptop & Accessory,1,Married,1,Yes,17,4,11.0,165.86
+0,25,1,25.0,Credit Card,3,Phone,2,Divorced,1,No,18,1,2.0,142.58
+0,2,1,21.0,Debit Card,4,Laptop & Accessory,3,Single,1,Yes,12,1,8.0,141.93
+0,28,1,7.0,Credit Card,1,Grocery,1,Married,3,No,13,2,0.0,247.32
+0,8,1,12.0,Debit Card,3,Phone,3,Married,1,Yes,14,2,2.0,135.06
+0,16,3,31.0,Credit Card,4,Fashion,1,Married,6,No,13,1,0.0,207.98
+0,20,1,7.0,COD,3,Phone,1,Married,8,No,12,1,2.0,134.2
+1,4,3,31.0,Debit Card,2,Grocery,4,Single,6,Yes,17,2,1.0,256.94
+1,11,3,18.4,Credit Card,3,Phone,3,Married,3,Yes,11,7,7.0,126.55
+1,7,1,24.0,COD,5,Phone,3,Married,11,Yes,17,2,1.0,149.37
+0,20,3,10.0,Debit Card,3,Laptop & Accessory,2,Single,2,Yes,17,1,7.0,141.63
+0,9,1,23.0,Debit Card,5,Fashion,4,Single,3,No,20,4,4.8,211.06
+0,16,1,16.0,UPI,5,Others,1,Single,10,No,15,2,2.0,318.7431
+0,5,1,10.0,Credit Card,4,Phone,5,Married,3,Yes,14,3,4.0,155.65
+0,2,1,15.0,UPI,4,Phone,2,Single,1,No,17,2,2.0,139.83
+0,26,1,11.0,UPI,3,Others,3,Married,5,No,11,4,8.0,290.94
+1,1,1,9.0,Debit Card,4,Phone,5,Married,9,No,21,2,8.0,152.07
+0,11,1,26.0,Debit Card,4,Laptop & Accessory,3,Married,5,No,18,2,3.0,182.68
+0,23,1,16.0,COD,4,Fashion,1,Single,7,No,15,1,3.0,204.96
+0,29,1,13.0,Debit Card,5,Fashion,1,Single,5,No,11,1,2.0,172.6
+0,19,1,35.0,Credit Card,4,Phone,1,Single,7,No,14,2,4.0,159.52
+1,1,3,19.0,Debit Card,2,Phone,4,Single,3,No,16,2,1.0,152.16
+0,10,3,22.0,E wallet,4,Laptop & Accessory,3,Married,5,No,19,1,0.0,163.34
+0,5,1,9.0,Credit Card,3,Laptop & Accessory,5,Married,2,No,12,6,3.0,167.25
+0,9,1,15.0,Credit Card,3,Phone,4,Married,7,No,18,2,2.0,120.24
+0,7,1,6.0,Debit Card,1,Phone,1,Single,3,No,16,1,3.0,132.8
+0,24,1,7.0,Credit Card,4,Grocery,2,Married,11,No,15,2,4.0,298.99
+1,0,1,6.0,Credit Card,3,Phone,1,Married,10,Yes,14,2,2.0,147.87
+0,0,3,28.0,COD,3,Phone,3,Single,2,No,11,1,2.0,134.47
+0,20,1,9.0,Debit Card,4,Grocery,3,Divorced,8,No,15,2,2.0,303.61
+0,4,1,26.0,Debit Card,3,Laptop & Accessory,3,Married,2,No,11,1,2.0,141.97
+0,10,3,15.0,Credit Card,3,Fashion,4,Married,2,No,13,7,7.0,188.34
+1,2,1,22.2,Credit Card,3,Phone,5,Married,8,Yes,21,2,2.0,124.04
+0,31,3,35.0,E wallet,5,Fashion,5,Divorced,6,No,20,9,5.0,227.66
+0,9,1,9.0,Credit Card,5,Phone,1,Single,2,Yes,15,2,5.0,174.3
+0,28,1,14.0,Credit Card,4,Grocery,4,Married,2,Yes,15,2,0.0,235.77
+0,1,1,14.0,Credit Card,5,Laptop & Accessory,5,Single,10,No,20,2,8.0,193.11
+1,0,1,13.6,COD,3,Phone,5,Single,6,Yes,11,1,4.0,126.57
+0,11,3,8.0,Debit Card,4,Laptop & Accessory,2,Divorced,4,No,18,7,5.0,152.49
+0,9,3,22.2,Debit Card,3,Phone,1,Single,4,Yes,21,1,2.0,126.44
+1,1,1,21.0,UPI,5,Phone,4,Married,3,Yes,25,2,3.0,162.43
+1,0,3,18.0,Debit Card,2,Phone,4,Single,2,No,15,1,0.0,127.16
+0,21,1,16.8,UPI,3,Phone,5,Married,9,No,12,7,6.0,123.67
+0,1,1,8.0,Credit Card,4,Phone,5,Single,2,No,14,8,7.0,153.67
+0,1,1,16.0,Debit Card,5,Phone,4,Married,3,No,12,2,1.0,151.94
+0,12,1,25.0,Credit Card,6,Laptop & Accessory,1,Married,5,Yes,17,2,1.0,183.11
+0,1,1,7.0,Credit Card,4,Phone,4,Single,3,No,19,3,2.0,145.96
+0,7,1,8.0,Debit Card,4,Laptop & Accessory,3,Divorced,2,No,17,1,9.0,195.47
+1,1,1,13.0,Credit Card,4,Phone,5,Single,4,No,12,2,4.0,154.6
+0,26,3,10.0,E wallet,5,Grocery,5,Married,3,No,15,2,11.0,293.56
+1,0,3,8.0,Debit Card,4,Phone,2,Single,8,No,14,1,0.0,127.85
+1,20,1,14.0,COD,3,Phone,3,Single,5,No,24,1,0.0,124.79
+0,11,1,8.0,Debit Card,3,Laptop & Accessory,3,Married,10,No,14,1,0.0,165.53
+0,13,3,32.0,E wallet,3,Laptop & Accessory,5,Married,2,No,14,7,5.0,183.96
+1,21,1,9.0,Debit Card,5,Phone,1,Married,11,Yes,15,2,1.0,148.8
+0,20,3,7.0,E wallet,4,Fashion,5,Married,3,No,26,9,2.8,229.53
+0,6,1,11.0,Debit Card,4,Phone,1,Married,2,No,13,1,2.0,129.11
+0,21,1,10.0,Debit Card,4,Fashion,3,Single,8,No,14,4,4.4,209.99
+0,0,1,10.0,Debit Card,1,Laptop & Accessory,4,Married,2,Yes,20,1,3.0,161.42
+0,18,1,22.2,Debit Card,3,Phone,1,Married,4,No,21,1,2.0,126.54
+0,26,1,32.0,Credit Card,5,Grocery,1,Married,5,No,23,2,1.0,263.26
+0,9,1,15.0,Debit Card,4,Laptop & Accessory,3,Married,3,No,13,3,10.0,166.48
+0,9,1,6.0,Credit Card,4,Phone,3,Married,2,No,13,1,3.0,120.07
+1,9,3,15.0,E wallet,3,Fashion,1,Married,5,No,11,4,3.0,200.96
+0,21,3,8.0,E wallet,2,Laptop & Accessory,4,Divorced,4,No,12,2,2.0,181.2
+0,10,1,7.0,Credit Card,5,Laptop & Accessory,3,Married,2,No,16,2,3.0,168.74
+0,11,1,12.0,COD,2,Phone,3,Single,2,No,15,2,4.0,160.0
+0,5,3,35.0,E wallet,5,Laptop & Accessory,1,Married,3,No,15,6,8.0,179.68
+0,9,1,6.0,Credit Card,3,Phone,4,Single,2,No,18,2,1.0,120.96
+0,6,1,16.0,Debit Card,4,Laptop & Accessory,2,Divorced,3,Yes,13,2,6.0,188.22
+0,7,3,16.0,Debit Card,3,Laptop & Accessory,3,Married,2,Yes,14,1,7.0,140.01
+0,3,1,8.0,Credit Card,4,Phone,1,Single,1,No,13,1,2.0,127.2
+0,23,1,16.2,Debit Card,3,Phone,2,Divorced,5,No,18,1,0.0,123.8
+1,1,1,10.0,COD,4,Phone,5,Single,2,No,23,2,5.0,156.02
+1,1,3,9.0,Credit Card,5,Phone,3,Single,3,No,14,2,3.0,145.44
+0,1,1,9.0,Credit Card,4,Phone,1,Single,4,No,14,2,3.0,150.8
+0,3,1,8.0,Debit Card,5,Grocery,1,Married,5,No,15,2,8.0,286.24
+0,23,1,34.0,Debit Card,3,Grocery,5,Married,5,Yes,11,1,2.0,268.8
+0,23,3,14.0,E wallet,3,Phone,4,Married,8,No,15,2,2.0,138.75
+0,5,3,27.0,E wallet,4,Laptop & Accessory,3,Married,3,No,14,2,1.0,194.32
+0,11,1,13.0,Credit Card,3,Laptop & Accessory,5,Married,6,Yes,14,7,8.0,184.74
+0,7,1,12.0,Debit Card,5,Phone,1,Married,3,No,14,2,3.0,154.11
+1,1,3,26.0,E wallet,3,Laptop & Accessory,2,Single,10,Yes,14,2,5.0,178.04
+0,9,3,6.0,Credit Card,3,Laptop & Accessory,1,Single,5,No,15,1,0.0,166.53
+1,14,3,15.0,COD,4,Laptop & Accessory,3,Divorced,5,Yes,15,2,4.0,192.96
+1,0,1,8.0,Debit Card,4,Phone,1,Single,2,No,22,1,0.0,116.01
+1,1,1,7.0,Debit Card,5,Phone,5,Divorced,3,Yes,12,2,1.0,148.19
+0,14,1,23.0,Debit Card,4,Fashion,1,Single,8,Yes,16,4,4.0,204.45
+1,0,3,14.0,E wallet,4,Phone,4,Divorced,2,Yes,18,1,0.0,124.13
+0,23,1,12.0,COD,4,Laptop & Accessory,3,Married,4,No,15,2,3.0,191.51
+0,5,3,13.0,E wallet,3,Laptop & Accessory,1,Married,5,No,12,1,3.0,192.04
+0,18,1,29.0,Debit Card,3,Laptop & Accessory,5,Married,2,Yes,15,1,8.0,136.33
+0,9,1,30.0,Debit Card,3,Laptop & Accessory,4,Divorced,8,No,15,1,8.0,156.74
+0,27,1,10.0,Credit Card,4,Grocery,3,Married,5,Yes,15,2,4.0,300.84
+0,15,1,22.2,Debit Card,3,Phone,5,Married,4,No,16,1,2.0,125.76
+0,2,2,12.0,Credit Card,4,Phone,4,Married,2,No,11,1,0.0,128.04
+0,10,1,19.0,Credit Card,3,Laptop & Accessory,1,Married,2,No,17,3,7.0,142.85
+0,9,1,18.0,Credit Card,4,Phone,3,Married,9,Yes,12,3,3.0,151.6
+0,0,1,13.0,Credit Card,4,Phone,1,Married,2,No,11,2,1.0,128.89
+0,21,1,8.0,Credit Card,4,Fashion,4,Married,2,No,19,2,11.0,244.57
+0,7,2,9.0,UPI,3,Phone,2,Divorced,1,No,19,1,2.0,137.37
+0,22,1,7.0,Debit Card,3,Grocery,3,Single,5,No,14,2,0.0,253.79
+0,29,1,15.0,Credit Card,3,Phone,3,Married,3,No,19,1,3.0,129.42
+0,8,3,7.0,COD,5,Fashion,3,Divorced,3,Yes,15,9,7.0,195.83
+0,17,1,9.0,UPI,3,Others,2,Divorced,5,Yes,15,1,1.0,295.13
+0,1,1,30.0,Debit Card,4,Phone,1,Married,3,No,23,2,3.0,153.86
+0,30,1,13.0,Debit Card,3,Others,5,Married,6,No,15,9,10.0,295.66
+1,1,3,23.0,Debit Card,4,Fashion,5,Single,4,Yes,21,2,4.8,210.64
+0,1,1,18.0,Credit Card,4,Laptop & Accessory,5,Married,3,Yes,14,4,4.0,172.41
+1,0,3,17.0,UPI,1,Laptop & Accessory,3,Married,9,No,12,1,2.0,147.07
+1,1,3,33.0,E wallet,5,Laptop & Accessory,5,Single,7,No,16,2,2.0,191.96
+0,12,3,7.0,Debit Card,5,Phone,5,Single,6,No,15,2,1.0,153.58
+0,9,1,23.0,UPI,5,Laptop & Accessory,4,Married,2,Yes,12,2,3.0,172.88
+1,1,1,19.0,Debit Card,4,Phone,2,Divorced,3,Yes,12,2,1.0,150.15
+0,9,3,15.0,Debit Card,4,Phone,1,Married,3,No,17,2,3.0,150.72
+0,24,3,15.0,Debit Card,3,Others,4,Married,5,Yes,15,9,10.0,298.47
+0,13,1,14.0,Debit Card,3,Laptop & Accessory,5,Married,3,Yes,16,1,0.0,165.16
+0,8,1,10.0,Debit Card,5,Phone,2,Divorced,5,No,18,2,1.0,154.79
+1,1,3,7.0,Debit Card,6,Phone,3,Single,3,No,13,2,1.0,138.59
+0,26,3,8.0,Credit Card,3,Grocery,3,Married,7,No,13,2,2.0,248.52
+0,5,3,10.0,Debit Card,3,Phone,4,Divorced,3,No,11,1,2.0,139.31
+0,17,3,34.0,Credit Card,1,Grocery,1,Married,4,Yes,18,2,11.0,233.2
+0,7,3,9.0,Credit Card,4,Laptop & Accessory,1,Married,3,No,15,2,5.0,180.05
+0,10,3,15.0,E wallet,4,Laptop & Accessory,4,Married,2,No,14,1,3.0,141.89
+0,1,1,16.0,Credit Card,4,Phone,4,Married,8,No,19,3,3.0,145.24
+0,1,1,32.0,Debit Card,2,Phone,1,Single,3,Yes,13,2,2.0,154.94
+0,1,1,9.0,COD,4,Phone,1,Single,3,Yes,14,2,4.0,162.6
+0,10,1,34.0,Credit Card,4,Laptop & Accessory,3,Married,8,No,14,8,8.0,177.37
+0,5,3,8.0,E wallet,3,Laptop & Accessory,4,Married,1,Yes,13,1,2.0,140.78
+0,11,1,6.0,Debit Card,3,Laptop & Accessory,1,Married,8,No,15,2,9.0,147.35
+0,2,1,8.0,Debit Card,5,Phone,3,Married,3,No,15,2,1.0,140.63
+0,2,3,5.0,E wallet,3,Laptop & Accessory,2,Divorced,1,No,19,1,1.0,143.42
+0,7,1,6.0,Debit Card,3,Laptop & Accessory,1,Married,10,No,17,2,1.0,154.84
+0,10,3,6.0,Credit Card,5,Laptop & Accessory,1,Married,2,No,14,1,3.0,195.25
+1,10,1,35.0,Debit Card,3,Fashion,4,Divorced,2,Yes,12,9,4.8,218.49
+1,0,1,16.2,Credit Card,3,Phone,5,Married,2,Yes,17,1,0.0,123.98
+0,5,1,12.0,Credit Card,4,Laptop & Accessory,5,Single,2,No,20,2,4.8,224.36
+1,1,1,9.0,Debit Card,4,Phone,1,Divorced,8,Yes,14,3,3.0,162.22
+1,2,3,9.0,Credit Card,3,Laptop & Accessory,3,Divorced,5,Yes,18,1,0.0,152.38
+1,0,1,8.0,Credit Card,5,Phone,2,Divorced,6,Yes,13,2,2.0,134.64
+0,3,1,7.0,Debit Card,6,Phone,2,Married,3,No,19,3,9.0,152.2
+0,19,1,32.0,Credit Card,4,Others,4,Single,5,No,15,2,1.0,305.61
+0,13,1,18.0,Debit Card,3,Laptop & Accessory,5,Married,3,No,12,7,7.0,144.48
+0,13,1,26.0,UPI,4,Laptop & Accessory,1,Married,10,No,15,3,3.0,164.02
+0,19,3,9.0,Debit Card,4,Laptop & Accessory,3,Married,6,No,23,6,8.0,176.54
+1,1,3,16.0,Debit Card,5,Phone,5,Single,9,No,24,2,4.0,159.07
+1,9,1,6.0,Credit Card,3,Phone,2,Divorced,3,Yes,16,2,0.0,122.93
+0,10,1,10.0,Credit Card,4,Phone,4,Single,6,No,13,8,3.0,145.88
+0,7,1,14.0,Credit Card,3,Laptop & Accessory,3,Single,4,No,11,4,3.0,161.42
+0,26,3,6.0,Credit Card,3,Laptop & Accessory,5,Single,8,No,20,8,10.0,183.81
+0,1,1,22.0,Debit Card,5,Phone,5,Married,2,No,20,8,4.0,172.74
+1,1,3,13.0,Debit Card,6,Laptop & Accessory,3,Divorced,6,Yes,19,8,8.0,186.72
+0,5,1,6.0,Credit Card,3,Laptop & Accessory,1,Married,2,Yes,22,7,8.0,161.62
+0,22,3,9.0,E wallet,4,Laptop & Accessory,2,Divorced,4,No,15,7,8.0,165.51
+0,9,1,8.0,UPI,3,Laptop & Accessory,4,Married,5,Yes,22,1,0.0,169.62
+1,13,3,14.0,COD,3,Laptop & Accessory,3,Married,4,Yes,14,1,3.0,167.96
+0,11,3,6.0,Debit Card,4,Laptop & Accessory,1,Single,5,No,22,1,7.0,186.86
+0,2,1,9.0,Credit Card,3,Phone,5,Single,2,Yes,18,1,5.0,147.23
+0,9,1,6.0,Debit Card,3,Phone,1,Single,2,No,12,5,7.0,121.15
+0,4,1,6.0,Credit Card,5,Laptop & Accessory,3,Married,1,No,12,1,4.0,143.45
+0,10,1,19.0,Credit Card,5,Fashion,1,Single,2,No,12,8,1.8,213.58
+0,0,1,25.0,Credit Card,3,Phone,2,Divorced,4,No,11,1,2.0,136.69
+1,0,1,8.0,Credit Card,3,Phone,3,Single,7,No,17,2,1.0,143.82
+0,7,1,7.0,Credit Card,5,Phone,3,Married,3,No,13,2,1.0,145.08
+0,5,1,14.0,Debit Card,5,Fashion,3,Divorced,3,No,25,9,3.0,214.43
+0,3,1,9.0,Debit Card,4,Laptop & Accessory,1,Married,3,No,20,2,3.8,213.53
+0,9,1,9.0,Debit Card,3,Phone,1,Married,2,No,21,1,0.0,120.61
+0,5,3,9.0,UPI,4,Laptop & Accessory,5,Single,9,No,14,2,4.0,178.32
+0,6,1,14.0,Debit Card,1,Phone,5,Married,7,No,19,7,6.0,131.43
+0,14,3,16.0,Debit Card,3,Laptop & Accessory,1,Single,8,No,14,1,10.0,162.3
+0,9,1,16.0,Debit Card,3,Fashion,5,Married,8,Yes,13,5,7.0,183.21
+0,28,1,10.0,Debit Card,3,Laptop & Accessory,3,Divorced,1,Yes,16,1,2.0,140.35
+0,28,1,8.0,Credit Card,5,Others,3,Married,5,No,14,9,11.0,291.87
+0,15,3,8.0,E wallet,4,Laptop & Accessory,5,Married,2,No,18,2,8.0,166.03
+0,3,1,22.0,Debit Card,4,Phone,2,Single,3,No,20,2,6.0,148.4
+0,3,1,7.0,Credit Card,3,Phone,4,Married,1,Yes,21,5,7.0,135.79
+0,22,1,29.0,Credit Card,4,Grocery,1,Married,5,No,15,5,8.0,296.74
+1,9,1,30.0,Debit Card,4,Phone,3,Single,6,Yes,14,1,3.0,120.28
+1,10,3,33.0,Debit Card,1,Laptop & Accessory,3,Single,5,Yes,12,1,3.0,163.97
+0,1,1,33.0,Credit Card,5,Laptop & Accessory,5,Married,1,No,21,1,0.0,116.01
+0,8,1,35.0,Credit Card,4,Laptop & Accessory,3,Divorced,6,No,14,8,8.0,179.29
+0,8,3,22.0,E wallet,3,Fashion,4,Divorced,1,No,15,6,9.0,180.2
+0,12,3,23.0,Debit Card,4,Laptop & Accessory,4,Single,4,No,13,2,3.0,166.98
+1,9,3,11.0,E wallet,3,Phone,4,Single,2,Yes,14,1,0.0,118.78
+0,0,3,11.0,UPI,4,Phone,3,Single,1,No,18,1,0.0,129.66
+0,31,1,9.0,Debit Card,5,Grocery,2,Single,5,Yes,14,5,4.0,262.26
+0,7,1,7.0,UPI,5,Phone,5,Single,5,Yes,12,2,3.0,152.99
+0,3,1,22.0,Debit Card,1,Laptop & Accessory,3,Married,4,No,16,1,7.0,152.94
+0,20,3,10.0,Debit Card,4,Grocery,4,Married,10,No,13,6,2.0,291.06
+0,25,1,34.0,Credit Card,1,Grocery,3,Married,3,Yes,11,2,2.0,232.47
+1,15,1,11.0,Debit Card,4,Phone,3,Divorced,11,Yes,13,3,8.0,149.61
+0,1,3,25.0,Debit Card,2,Laptop & Accessory,3,Divorced,4,No,12,2,3.0,187.32
+0,20,1,22.0,Debit Card,4,Others,4,Married,7,No,15,2,4.0,315.81
+1,9,1,8.0,UPI,4,Phone,3,Single,7,Yes,15,1,0.0,120.9
+0,20,1,20.0,COD,3,Laptop & Accessory,4,Married,9,No,18,1,7.0,154.67
+0,7,1,15.0,Debit Card,2,Phone,5,Married,8,No,20,8,7.0,156.43
+0,2,1,14.0,Credit Card,4,Laptop & Accessory,1,Married,2,Yes,15,1,2.0,150.56
+0,3,1,34.0,Credit Card,4,Laptop & Accessory,3,Married,6,No,13,2,2.0,168.35
+0,15,2,16.0,UPI,3,Grocery,5,Married,1,No,14,1,9.0,267.99
+0,9,1,33.0,Credit Card,3,Phone,4,Single,3,No,15,1,2.0,123.11
+1,9,3,11.0,COD,3,Laptop & Accessory,2,Divorced,4,No,14,1,0.0,120.86
+0,11,1,9.0,Debit Card,5,Laptop & Accessory,1,Married,7,No,15,2,1.0,176.63
+0,8,3,24.0,Credit Card,3,Laptop & Accessory,3,Married,2,No,16,1,0.0,146.01
+0,5,3,25.0,Debit Card,5,Fashion,3,Married,4,No,13,1,2.0,196.1
+1,0,3,30.0,Debit Card,5,Phone,2,Single,2,Yes,14,1,0.0,116.01
+0,12,3,8.0,Debit Card,1,Fashion,3,Single,1,No,18,1,7.0,178.8
+0,4,1,24.0,Credit Card,4,Fashion,5,Divorced,3,Yes,24,2,9.0,244.16
+0,9,1,24.0,Debit Card,3,Laptop & Accessory,2,Single,3,No,20,1,9.0,177.79
+1,3,3,31.0,E wallet,4,Fashion,4,Single,3,Yes,12,1,0.0,190.94
+0,19,1,9.0,UPI,5,Laptop & Accessory,1,Married,3,No,20,4,10.0,182.7
+0,7,1,16.0,COD,4,Laptop & Accessory,3,Married,2,No,14,7,7.0,150.63
+1,1,1,17.0,Credit Card,4,Laptop & Accessory,5,Single,3,No,16,2,9.0,167.13
+1,1,1,7.0,Credit Card,5,Phone,4,Married,3,No,16,2,1.0,150.96
+0,10,1,11.0,Debit Card,5,Laptop & Accessory,1,Single,3,No,17,2,9.0,183.1
+0,7,3,32.0,Credit Card,4,Laptop & Accessory,3,Divorced,3,No,13,2,2.0,170.39
+0,13,1,14.0,Debit Card,3,Laptop & Accessory,5,Married,3,Yes,16,1,0.0,165.16
+0,28,1,14.0,Credit Card,3,Grocery,3,Married,3,Yes,14,2,2.0,247.56
+0,31,1,8.0,Credit Card,6,Fashion,1,Married,5,No,21,2,1.0,233.83
+0,1,3,20.0,Debit Card,4,Phone,4,Divorced,3,No,14,2,1.0,145.33
+0,12,3,10.0,Debit Card,4,Fashion,3,Married,2,No,13,6,5.2,231.09
+0,20,1,7.0,Credit Card,4,Others,2,Married,11,No,15,3,3.0,318.7431
+1,0,1,8.0,Credit Card,3,Phone,3,Single,7,No,17,2,1.0,143.82
+0,19,3,27.0,Debit Card,4,Laptop & Accessory,3,Single,10,No,16,2,2.0,173.5
+1,1,1,31.0,COD,6,Phone,2,Single,3,Yes,19,2,1.0,148.4
+1,1,1,10.0,Debit Card,4,Laptop & Accessory,3,Married,2,Yes,20,2,3.0,166.71
+0,27,1,11.0,Credit Card,3,Others,5,Married,5,No,15,1,2.0,294.06

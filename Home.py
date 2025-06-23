@@ -14,18 +14,18 @@ likely to churn and provides actionable retention strategies to reduce potential
 
 ## 🚀 Key Features
 
-### 1. Churn Data Analysis Module
+### 1. [Churn Data Analysis Module](https://ecom-churn.streamlit.app/Churn_Analysis)
 - Provides in-depth analysis of churn across the entire dataset.
 - Visualizes trends, distributions, and correlations to help businesses understand key churn drivers.
 
-### 2. Churn Prediction & Retention Strategy Module
+### 2. [Churn Prediction & Retention Strategy Module](https://ecom-churn.streamlit.app/Churn_Prediction)
 - Predicts the **churn probability** of an individual customer.
 - Generates **personalized retention recommendations** based on customer-specific attributes such as Tenure, 
   Satisfaction Score, Order Patterns, and more.
 - Allows users to explore **feature-level impact** on churn probability and see **how each feature shifts the 
   predicted probability from its base value**.
 
-### 3. Feature Impact & Explainability Module
+### 3. [Feature Impact & Explainability Module](https://ecom-churn.streamlit.app/Model_Insights)
 - Uses **SHAP (SHapley Additive exPlanations)** to explain the impact of features on the model’s churn prediction.
 - Helps stakeholders interpret why certain customers are at a higher risk of churn.
 

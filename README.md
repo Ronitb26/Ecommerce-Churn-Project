@@ -20,7 +20,7 @@ Built with an intuitive **Streamlit interface**, this solution empowers business
 - Gain valuable business insights about factors impacting customer retention.
 
 ### 2. Churn Prediction & Retention Strategy Module
-- Predict the **churn probability** of any individual customer using a trained **XGBoost Classifier**.
+- Predict the **churn probability** of any individual customer using a trained **ANN**.
 - Generate **personalized retention strategies** based on customer-specific data (e.g., Tenure, Satisfaction Score, Order Patterns).
 - Explore **feature-level impact** on churn probability to understand the contribution of each factor.
 
@@ -35,18 +35,17 @@ Built with an intuitive **Streamlit interface**, this solution empowers business
 
 | Metric         | Final Model | Base Model |
 |---------------|------------|------------|
-| **Accuracy**  | 95.56%     | 95.46%     |
-| **Recall**    | 90.80%     | 82.12%     |
-| **F1-Score**  | 89.77%     | 85.44%     |
+| **Recall**    | 99.36%     | 82.12%     |
+| **F1-Score**  | 74.83%     | 69.44%     |
 
-- Model: **XGBoost Classifier**
+- Model: **ANN**
 - Evaluation: Stratified Train-Test Split (80-20) with Cross-validation
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Languages & Libraries:** Python, Pandas, Scikit-learn, XGBoost
+- **Languages & Libraries:** Python, Pandas, Scikit-learn, TensorFlow , Keras
 - **Web App Development:** Streamlit
 - **Model Explainability:** SHAP
 - **Visualization:** Matplotlib, Seaborn
